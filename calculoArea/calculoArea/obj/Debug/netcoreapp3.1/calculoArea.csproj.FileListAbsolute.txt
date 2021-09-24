@@ -1,0 +1,14 @@
+C:\Users\helen.moura\Desktop\calculoArea\calculoArea\bin\Debug\netcoreapp3.1\calculoArea.exe
+C:\Users\helen.moura\Desktop\calculoArea\calculoArea\bin\Debug\netcoreapp3.1\calculoArea.deps.json
+C:\Users\helen.moura\Desktop\calculoArea\calculoArea\bin\Debug\netcoreapp3.1\calculoArea.runtimeconfig.json
+C:\Users\helen.moura\Desktop\calculoArea\calculoArea\bin\Debug\netcoreapp3.1\calculoArea.runtimeconfig.dev.json
+C:\Users\helen.moura\Desktop\calculoArea\calculoArea\bin\Debug\netcoreapp3.1\calculoArea.dll
+C:\Users\helen.moura\Desktop\calculoArea\calculoArea\bin\Debug\netcoreapp3.1\calculoArea.pdb
+C:\Users\helen.moura\Desktop\calculoArea\calculoArea\obj\Debug\netcoreapp3.1\calculoArea.csproj.AssemblyReference.cache
+C:\Users\helen.moura\Desktop\calculoArea\calculoArea\obj\Debug\netcoreapp3.1\calculoArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helen.moura\Desktop\calculoArea\calculoArea\obj\Debug\netcoreapp3.1\calculoArea.AssemblyInfoInputs.cache
+C:\Users\helen.moura\Desktop\calculoArea\calculoArea\obj\Debug\netcoreapp3.1\calculoArea.AssemblyInfo.cs
+C:\Users\helen.moura\Desktop\calculoArea\calculoArea\obj\Debug\netcoreapp3.1\calculoArea.csproj.CoreCompileInputs.cache
+C:\Users\helen.moura\Desktop\calculoArea\calculoArea\obj\Debug\netcoreapp3.1\calculoArea.dll
+C:\Users\helen.moura\Desktop\calculoArea\calculoArea\obj\Debug\netcoreapp3.1\calculoArea.pdb
+C:\Users\helen.moura\Desktop\calculoArea\calculoArea\obj\Debug\netcoreapp3.1\calculoArea.genruntimeconfig.cache
