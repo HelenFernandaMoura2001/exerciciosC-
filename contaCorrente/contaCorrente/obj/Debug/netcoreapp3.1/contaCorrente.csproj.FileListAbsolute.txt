@@ -1,0 +1,14 @@
+C:\helen\contaCorrente\contaCorrente\bin\Debug\netcoreapp3.1\contaCorrente.exe
+C:\helen\contaCorrente\contaCorrente\bin\Debug\netcoreapp3.1\contaCorrente.deps.json
+C:\helen\contaCorrente\contaCorrente\bin\Debug\netcoreapp3.1\contaCorrente.runtimeconfig.json
+C:\helen\contaCorrente\contaCorrente\bin\Debug\netcoreapp3.1\contaCorrente.runtimeconfig.dev.json
+C:\helen\contaCorrente\contaCorrente\bin\Debug\netcoreapp3.1\contaCorrente.dll
+C:\helen\contaCorrente\contaCorrente\bin\Debug\netcoreapp3.1\contaCorrente.pdb
+C:\helen\contaCorrente\contaCorrente\obj\Debug\netcoreapp3.1\contaCorrente.csproj.AssemblyReference.cache
+C:\helen\contaCorrente\contaCorrente\obj\Debug\netcoreapp3.1\contaCorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\helen\contaCorrente\contaCorrente\obj\Debug\netcoreapp3.1\contaCorrente.AssemblyInfoInputs.cache
+C:\helen\contaCorrente\contaCorrente\obj\Debug\netcoreapp3.1\contaCorrente.AssemblyInfo.cs
+C:\helen\contaCorrente\contaCorrente\obj\Debug\netcoreapp3.1\contaCorrente.csproj.CoreCompileInputs.cache
+C:\helen\contaCorrente\contaCorrente\obj\Debug\netcoreapp3.1\contaCorrente.dll
+C:\helen\contaCorrente\contaCorrente\obj\Debug\netcoreapp3.1\contaCorrente.pdb
+C:\helen\contaCorrente\contaCorrente\obj\Debug\netcoreapp3.1\contaCorrente.genruntimeconfig.cache
